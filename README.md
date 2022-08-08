@@ -12,9 +12,10 @@
 
 2-1. 비교 연산자와 불리언
 
-- 데이터 타입의 종류: (1).숫자(number) <br>
-                     (2). 언어(string) <br>
-                      (3). Boolean: True, False
+- 데이터 타입의 종류: <br>
+(1).숫자(number) <br>
+(2). 언어(string) <br>
+(3). Boolean: True, False
 
 - 비교 연산자: === -> 좌항과 우항이 같으면 True, 다르면 False를 출력 <br>
                   &lt = < , &gt = >
